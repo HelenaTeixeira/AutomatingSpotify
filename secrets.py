@@ -1,0 +1,3 @@
+spotifytoken= "BQCaZS8Z8UlRGfUE_zoHuiCfyGr7RJT1PYpxuXx_hpbCqflABngZvoxrIfNVqnMVaLj"
+spotify_user_id= "spotify:user:lenospotify"
+
